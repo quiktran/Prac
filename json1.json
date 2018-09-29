@@ -1,0 +1,26 @@
+{
+  "country_list": [
+    {
+      "name": "Peter",
+      "iso_code": "Code 2",
+      "code": 123
+    },
+    {
+      "name": "Tom",
+      "iso_code": "Code 3",
+      "code": 123
+    },
+
+    {
+      "name": "Mary",
+      "iso_code": "Code 4",
+      "code": 123
+    },
+
+    {
+      "name": "Peter",
+      "iso_code": "Code 5",
+      "code": 123
+    }
+  ]
+}
